@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-App de valores de criptomoedas.
+App que mostra os valores de criptomoedas.
 
 Aula do canal [AsmrProg](https://www.youtube.com/watch?v=AZaZOP2sX7Y)
 
