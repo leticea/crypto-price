@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="dice" src=".github/image.png">
+  <img alt="" src=".github/image.png">
 </p>
 
 ## Crypto Price App
@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-App que mostra os valores de criptomoedas.
+App que mostra os valores de algumas criptomoedas mais valorizadas.
 
 Aula do canal [AsmrProg](https://www.youtube.com/watch?v=AZaZOP2sX7Y)
 
