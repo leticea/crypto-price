@@ -9,7 +9,7 @@ fetch(
     for (let coin of coins) {
       const coinInfo = json[`${coin}`];
       const price = coinInfo.usd;
-      const change = coinInfo.usd_24_change.toFixed(5);
+      const change = coinInfo.usd_24h_change.toFixed(5);
 
       container.innerHTML += `
         <div class="coin ${change < 0 ? "falling" : "rising"}">
